@@ -1,0 +1,16 @@
+Flask==2.0.3
+importlib-metadata==4.8.3
+itsdangerous==2.0.1
+Jinja2==3.0.3
+joblib==1.1.1
+MarkupSafe==2.0.1
+numpy==1.19.5
+pandas==1.1.5
+Pillow==8.4.0
+requests==2.27.1
+scikit-learn==0.24.2
+scipy==1.5.4
+six==1.16.0
+torch==1.10.2
+torchvision==0.11.3
+zipp==3.6.0
